@@ -7,7 +7,7 @@
 	1. POO
 	1. Variáveis, Métodos e Classes estáticas (static)
 1. ASP.NET MVC
-	1. Injeção de Dependência (Simple Injector)
+	1. Injeção de Dependência ([Simple Injector](https://viniciusmussak.net/2015/04/09/implementando-simple-injector/comment-page-1/))
 	1. Razor
 	1. Helpers
 	1. Filters
