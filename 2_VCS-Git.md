@@ -7,7 +7,7 @@
 
 ------
 
-Métodologia:
+Metodologia:
 
 [Rodrigo Branas - Git](https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1)
 
