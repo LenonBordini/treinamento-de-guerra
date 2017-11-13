@@ -21,7 +21,7 @@
 
 ------
 
-Métodologia:
+Metodologia:
 
 [Cleyton Ferrari - ASP.Net MVC na Prática](https://www.youtube.com/watch?v=VbA_JZJtKaY&list=PLE6C2832C9FF542A7)
 
