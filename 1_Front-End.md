@@ -25,7 +25,7 @@
 
 ------
 
-Métodologia:
+Metodologia:
 
 [Gustavo Guanabara - Curso de HTML5 Completo e GRÁTIS](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 
