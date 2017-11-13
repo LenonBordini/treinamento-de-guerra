@@ -15,5 +15,7 @@
 ------
 
 Metodologia:
+
 [Modelagem](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD)
+
 [SQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNqI5cW3alteV5olcMCcHYRK)
